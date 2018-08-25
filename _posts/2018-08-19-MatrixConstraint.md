@@ -1,5 +1,5 @@
 ---
-title: "Matrix Constraint Tool"{: .text-center}
+title: "Matrix Constraint Tool"
 
 date: 2018-08-19
 tags: [maya, Python, PyQt]
