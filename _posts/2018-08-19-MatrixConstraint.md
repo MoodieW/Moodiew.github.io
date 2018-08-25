@@ -24,7 +24,7 @@ matrix utility nodes to create a constraint system. I decided to make a tool tha
 and mirrors maya's built in constraint tool for easy use.
 {: .text-justify}
 
-###The goal for this project was fairly simple.
+The goal for this project was fairly simple.
 
 * Create a tool that was similar enough to maya's built in constraint tool that was familiar.
 * Learn how to use the PyQt library to build the UI.
@@ -36,7 +36,7 @@ can see major improvments in my work. From learning python about seven months ag
 tools that my colleague would use in their work flow is awesome!
 {: .text-justify}
 
-If you like to take the the tool for as spin feel free
+If you like to take the the tool for a spin or take a  look through my coding feel free
 to download it from my  <a href="https://github.com/MoodieW/MatrixConstraint" class="btn btn--primary">Github</a> 
 
 {: .text-justify}
