@@ -4,7 +4,9 @@ title: "Matrix Constraint Tool"
 date: 2018-08-19
 tags: [maya, Python, PyQt]
 header:
-  image:
+  video:
+    id: 284256626
+    provider: vimeo
 excerpt: "Through my internet searches I came across a method 
 that is more cost effective than maya's built in constraint system. This method uses some of maya's 
 matrix utility nodes to create a constraint system. I decided to make a tool that automates this method
