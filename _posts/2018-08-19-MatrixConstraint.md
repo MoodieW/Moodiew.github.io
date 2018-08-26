@@ -18,7 +18,7 @@ and mirrors maya's built in constraint tool for easy use."
 
 ![image-center](/images/MatrixScreenshot.PNG){: .align-center}
  
-Through my internet searches I came across a <a href="https://github.com/MoodieW/MatrixConstraint" class="btn btn--primary">method</a>  
+Through my internet searches I came across a <a href="https://bindpose.com/maya-matrix-nodes-blending-matrices/" class="btn btn--primary">method</a>  
 that is more cost effective than maya's built in constraint system. This method uses some of maya's 
 matrix utility nodes to create a constraint system. I decided to make a tool that automates this method
 and mirrors maya's built in constraint tool for easy use.
