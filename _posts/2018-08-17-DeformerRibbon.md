@@ -5,8 +5,6 @@ date: 2018-08-17
 tags: [maya, Python, PyQt]
 header:
   video:
-    id: 284256626
-    provider: vimeo
 excerpt: "As I got familiar with Rigging I found myself making ribbons a lot so I decided to make 
  a script to do it."
 
