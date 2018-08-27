@@ -15,7 +15,7 @@ and mirrors maya's built in constraint tool for easy use."
 ---
 
 
-
+{% include video id="284256626" provider="vimeo" %}
 ![image-center](/images/MatrixScreenshot.PNG){: .align-center}
  
 Through my internet searches I came across a <a href="https://bindpose.com/maya-matrix-nodes-blending-matrices/" class="btn btn--primary">method</a>  
