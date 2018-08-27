@@ -14,7 +14,8 @@ excerpt: "As I got familiar with Rigging I found myself making ribbons a lot so 
 
 
 
-![image-center](/images/Deformer.PNG){: .align-center}
+{% include video id="286953688" provider="vimeo" %}
+
  
 As I got familiar with Rigging I found myself making ribbons a lot so I decided to make a script to do it.
 Than I found this <a href="https://vimeo.com/108727407" class="btn btn--primary">video</a> and I decided to 

@@ -15,8 +15,8 @@ and mirrors maya's built in constraint tool for easy use."
 ---
 
 
-{% include video id="284256626" provider="vimeo" %}
-![image-center](/images/MatrixScreenshot.PNG){: .align-center}
+{% include video id="286953727" provider="vimeo" %}
+
  
 Through my internet searches I came across a <a href="https://bindpose.com/maya-matrix-nodes-blending-matrices/" class="btn btn--primary">method</a>  
 that is more cost effective than maya's built in constraint system. This method uses some of maya's 
@@ -41,4 +41,3 @@ to download it from my  <a href="https://github.com/MoodieW/MatrixConstraint" cl
 
 {: .text-justify}
 
-  
