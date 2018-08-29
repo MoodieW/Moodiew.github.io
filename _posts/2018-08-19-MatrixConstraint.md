@@ -18,7 +18,12 @@ and mirrors maya's built in constraint tool for easy use."
  
 Through my internet searches I came across a <a href="https://bindpose.com/maya-matrix-nodes-blending-matrices/" class="btn btn--primary">method</a>  
 that is more cost effective than maya's built in constraint system. This method uses some of maya's 
-matrix utility nodes to create a constraint system. I decided to make a tool that automates this method
+matrix utility nodes to create a constraint system. Why would we want to use this method?
+according to Vasil's testing for every 26 matrix constraints that replaced
+Maya's constraints he won a frame of performance back. While the
+results may be different depending on the system It's safe to say that we want
+rigs to evaluate faster. What the problem? Well the setup for this method is a little
+cumbersome. So I decided to make a tool that automates this method
 and mirrors maya's built in constraint tool for easy use.
 {: .text-justify}
 
