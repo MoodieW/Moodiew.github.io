@@ -23,5 +23,5 @@ My Hero Academia.
 Also if you know the phrase don-don-donuts! We are pretty much best friends now.
 {: .text-justify}
 
-<a href="https://docs.wixstatic.com/ugd/ebf0ee_50eea8a255494c639f721af9607cc9a3.pdf" class="btn btn--primary">Resume</a>
+<a href="https://docs.wixstatic.com/ugd/ebf0ee_184478bc176d4af591c95a52db2873f2.pdf">Resume</a>
 
